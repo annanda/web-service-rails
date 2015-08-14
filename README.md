@@ -1,1 +1,1 @@
-# web-service-rails
+# A rails web service
